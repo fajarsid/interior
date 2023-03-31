@@ -7211,7 +7211,7 @@ div.elementor-widget-heading .elementor-heading-title {
   }
 }
 .author-bio .author-info {
-  background-image: url('https://via.placeholder.com/870x290.png');
+  background-image: url('../images/blog/bg-author-bio.jpg');
 }
 .author-bio .author-image {
   max-width: 150px;
@@ -7233,37 +7233,24 @@ section {
   background-color: #1A1A1A;
 }
 .page-header {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+  background-image: url('../images/slider/bloghead.jpg');
 }
 .page-header-contact {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+  background-image: url('../images/page-header/pheader-contact.jpg');
 }
 .pheader-service-detail1 {
-  background-image: url('https://via.placeholder.com/1920x500.png');
+  background-image: url('../images/page-header/pheader-service-detail1.jpg');
 }
-.pheader-team {
-  background-image: url('https://via.placeholder.com/1920x500.png');
-}
+
 .pheader-services {
     background-image: url(https://via.placeholder.com/1920x500.png);
 }
 .pheader-about {
     background-image: url(../images/page-header/pheader-aboutus.jpg);
 }
-.pheader-process {
-    background-image: url(https://via.placeholder.com/1920x500.png);
-}
-.pheader-studio {
-    background-image: url(https://via.placeholder.com/1920x500.png);
-}
-.pheader-typo {
-    background-image: url(https://via.placeholder.com/1920x500.png);
-}
-.pheader-faq {
-    background-image: url(https://via.placeholder.com/1920x500.png);
-}
+
 .pheader-portfolio {
-    background-image: url(https://via.placeholder.com/1920x500.png);
+    background-image: url(../images/page-header/pheader-portfolio.jpg);
 }
 .pheader-portfolio-detail {
     background-image: url(https://via.placeholder.com/1920x500.png);
@@ -7291,7 +7278,7 @@ section {
 .contact-right {
     padding-left: 75px;
     padding-right: 40px;
-    background-image: url('https://via.placeholder.com/510x680.png');
+    background-image: url('../images/bg/bg1-contact.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
